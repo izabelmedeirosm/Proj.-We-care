@@ -101,8 +101,8 @@ p {
     .logo{
         width: 70%;
         height: auto;
-        margin-top: 19%;
-        margin-left: 18%;
+        margin-top: 40%;
+        margin-left: 20%;
     }
 
     p {
@@ -118,7 +118,7 @@ p {
         font-style: normal;
         font-weight: 900;
         line-height: normal;
-        margin: auto 35%;
+        margin: auto auto;
     }
 
     h2{
@@ -128,13 +128,13 @@ p {
         font-style: normal;
         font-weight: 500;
         line-height: normal;
-        margin: 1.5vh 35%;
+        margin: 1.5vh auto;
         text-align: center;
         width: 100%;
     }
 
     .button-explore{
-        margin: 7vh 35%;
+        margin: 4vh auto;
     }
 
 }
